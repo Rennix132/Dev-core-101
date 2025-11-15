@@ -1,0 +1,19 @@
+1) Финансы
+1. App: Freedom
+2. App: Kaspi
+
+2) Здравоохранение 
+1. App: DamuMed
+2. App: Egov Mobile
+
+3) Образование
+1. App: Coursera
+2. App: Khan Academy
+
+4) Развлечение
+1. App: Spotify
+2. App Netflix
+
+5) Транспорт
+1. App: Yandex taxi
+2. App: Uber
